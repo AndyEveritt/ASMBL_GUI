@@ -1,0 +1,23 @@
+{
+  "name": "asmbl_gui",
+  "version": "1.0.0",
+  "description": "Gui for the standalone version of the Additive Subtractive Manufacturing By Layer program by AndyEveritt",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyEveritt/ASMBL_GUI.git"
+  },
+  "author": "AndyEveritt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyEveritt/ASMBL_GUI/issues"
+  },
+  "homepage": "https://github.com/AndyEveritt/ASMBL_GUI#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
